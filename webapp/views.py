@@ -12,4 +12,4 @@ message = app.config['HELLO_WORLD']
 def webapp():
   return message
 
-
+import view_search
